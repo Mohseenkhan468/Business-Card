@@ -1,0 +1,85 @@
+body{
+  margin: 0 ;
+  font-family: 'Inter', sans-serif;
+}
+.container{
+  width: 550px;
+  height: 900px;
+  margin: 0 auto;
+  background-color: #23252C;
+}
+.card{
+  width: 317px;
+  margin:0 auto;
+  height: 868px;
+}
+.profileImage{
+  width: 317px;
+  height: 317px;
+  border-radius: 10px 10px 0 0;
+  margin-top: 20px;
+}
+.intro{
+  text-align: center;
+}
+.intro h2{
+  margin-top: 0;
+  color:white;
+  font-size: 25px;
+  line-height: 30.26px;
+  font-weight: 700;
+}
+.intro h4{
+  font-size: 12.8px;
+  color:#F3BF99;
+  line-height: 15.49px;
+  font-weight: 400;
+}
+.main{
+  background-color: #1A1B21;
+}
+.about h3{
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+}
+.detail{
+  width: 80%;
+  margin: 0 auto;
+}
+.intro p{
+  color: white;
+  font-size: 10.24px;
+}
+.about{
+  color: white;
+}
+button{
+  width: 100px;
+  height: 34px;
+  margin-right: 10px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+}
+.linkedIn{
+  background: #5093E2;
+  color:white;
+}
+.footer{
+  width: 317px;
+height: 64px;
+
+
+background: #161619;
+border-radius: 0px 0px 10px 10px;
+text-align: center;
+  margin-top: -15px;
+}
+
+  
+.footer i{
+ font-size: 25px;
+  margin:10px 20px ;
+  color:white;
+
+}
